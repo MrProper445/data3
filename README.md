@@ -1,2 +1,4 @@
 # data3
 3
+PRINT 555
+GO TO 3
